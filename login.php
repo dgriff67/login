@@ -59,8 +59,8 @@
    
    <head>
       <title>MySQL / PHP Login Page</title>
-      <link href = "../css/bootstrap.min.css" rel = "stylesheet">
-      <link href = "../css/login.css" rel = "stylesheet">
+      <link href = "css/bootstrap.min.css" rel = "stylesheet">
+      <link href = "css/login.css" rel = "stylesheet">
 
    </head>
 	
