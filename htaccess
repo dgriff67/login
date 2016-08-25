@@ -1,0 +1,4 @@
+<Files "*.ini">
+order deny,allow
+deny from all
+</Files>
